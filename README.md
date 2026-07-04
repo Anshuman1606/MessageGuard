@@ -32,6 +32,7 @@ MessageGuard is a Machine Learning-powered web application that classifies SMS a
 ## ⚠️ Limitation
 
 The model is trained on a traditional SMS spam dataset, so it may not accurately detect newer phishing attacks such as banking scams, KYC fraud, or modern social engineering messages. Expanding the training dataset with contemporary phishing examples would improve its performance.
+*NOTE- when you open the website first time it may not load quickly so just refresh it , will open eventually and works fine and completely smooth
 
 ## 👨‍💻 Author
 
